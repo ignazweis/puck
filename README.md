@@ -1,1 +1,1 @@
-# Kit de Utilidades para Privacidade (KUP)
+# Privacy Utilities Kit (PUK)
